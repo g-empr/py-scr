@@ -1,4 +1,8 @@
 <li>
+	<span>zaburo's entry: </span>
+	<a href="https://qiita.com/zaburo/items/0ba12417dfb39fcb1555">Pythonでのファイル操作</a>
+</li>
+<li>
 	<span>itkr's entry: </span>
 	<a href="https://qiita.com/itkr/items/513318a9b5b92bd56185">PythonとBeautiful Soupでスクレイピング</a>
 </li>
@@ -73,8 +77,4 @@
 <li>
 	<span>chroju's entry: </span>
 	<a href="https://qiita.com/chroju/items/3f30fe424df36e4b4d80">Amazon Echo (Alexa) のSkillの開発に必要な基本概念を押さえる</a>
-</li>
-<li>
-	<span>tsuuuuu_san's entry: </span>
-	<a href="https://qiita.com/tsuuuuu_san/items/1bdd6a6b396a1169fc82">Vue.jsってどうやったら綺麗に使えるのよ</a>
 </li>
