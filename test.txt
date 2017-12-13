@@ -1,1 +1,0 @@
-ちょっとしたHTMLはGitHub Gistに置いてbl.ocks.orgで表示するのがお手軽です

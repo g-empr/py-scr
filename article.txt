@@ -1,0 +1,80 @@
+<li>
+	<span>itkr's entry: </span>
+	<a href="https://qiita.com/itkr/items/513318a9b5b92bd56185">PythonとBeautiful Soupでスクレイピング</a>
+</li>
+<li>
+	<span>hnakamur's entry: </span>
+	<a href="https://qiita.com/hnakamur/items/ad1346bc9cfb0288ff60">ちょっとしたHTMLはGitHub Gistに置いてbl.ocks.orgで表示するのがお手軽です</a>
+</li>
+<li>
+	<span>higuma's entry: </span>
+	<a href="https://qiita.com/higuma/items/3344387e0f2cce7f2cfe">Markdown文法まとめ</a>
+</li>
+<li>
+	<span>tkow's entry: </span>
+	<a href="https://qiita.com/tkow/items/c869e7a69665ddc7305d">マイクロサービスを作るのに、nuxt.jsが最高だった話</a>
+</li>
+<li>
+	<span>natsumi527's entry: </span>
+	<a href="https://qiita.com/natsumi527/items/189d8e122bf2ee02f099">nuxt.jsのlayoutsがとても便利</a>
+</li>
+<li>
+	<span>satetsu888's entry: </span>
+	<a href="https://qiita.com/satetsu888/items/c63d786dbceb77c557ac">vue.jsでデータを初期値にリセットできるコンポーネント作ってみた</a>
+</li>
+<li>
+	<span>dongri's entry: </span>
+	<a href="https://qiita.com/dongri/items/2a0a18e253eb5bf9edba">よく使う正規表現はもうググりたくない！</a>
+</li>
+<li>
+	<span>natsuyoshi_jr's entry: </span>
+	<a href="https://qiita.com/natsuyoshi_jr/items/2e141ffb493ca5f20c7e">[Kotlin] Kotlin初学者が学習時に参考にした情報等</a>
+</li>
+<li>
+	<span>ToniTakekawa's entry: </span>
+	<a href="https://qiita.com/ToniTakekawa/items/d4b26abb7adfb85e2da9">[kotlin] ことりん入門 ～HelloWorldからMulti-declarations and Data classesまで</a>
+</li>
+<li>
+	<span>thiroi's entry: </span>
+	<a href="https://qiita.com/thiroi/items/489a181c9e45073ae572">vscodeオススメショートカット。レベル別25選</a>
+</li>
+<li>
+	<span>kurosame's entry: </span>
+	<a href="https://qiita.com/kurosame/items/b3f5bee8ea73df025cb1">Vue2のディレクトリ構成を考える</a>
+</li>
+<li>
+	<span>tonkotsuboy_com's entry: </span>
+	<a href="https://qiita.com/tonkotsuboy_com/items/67d9fd4d054a45af9f34">Sassの複数のimportはglobを使って一つにまとめると幸せ</a>
+</li>
+<li>
+	<span>tmiame's entry: </span>
+	<a href="https://qiita.com/tmiame/items/8816d970eacaf450911f">[css,html5] placeholder属性のテキストカラーを変更</a>
+</li>
+<li>
+	<span>chooyan_eng's entry: </span>
+	<a href="https://qiita.com/chooyan_eng/items/46f5724202f90ab4004d">これからRubyで仕事したい人のためのリポジトリ「Code Your Ruby」を作りました</a>
+</li>
+<li>
+	<span>b4b4r07's entry: </span>
+	<a href="https://qiita.com/b4b4r07/items/129f11c80aa34479b764">自作コマンドの作り方  </a>
+</li>
+<li>
+	<span>takezoux2's entry: </span>
+	<a href="https://qiita.com/takezoux2/items/aa2a5f0bef19cd0d8508">Homebrewを久々にupdateしたら出来なかった時の対処法</a>
+</li>
+<li>
+	<span>gymnstcs's entry: </span>
+	<a href="https://qiita.com/gymnstcs/items/5e91e7000196933f626f">mac でbrew がおかしくなった（brew updateができない）のを解決</a>
+</li>
+<li>
+	<span>shibukawa's entry: </span>
+	<a href="https://qiita.com/shibukawa/items/f7076cf4b181ee141bcd">最小のNode.jsのDockerイメージを目指すスレ</a>
+</li>
+<li>
+	<span>chroju's entry: </span>
+	<a href="https://qiita.com/chroju/items/3f30fe424df36e4b4d80">Amazon Echo (Alexa) のSkillの開発に必要な基本概念を押さえる</a>
+</li>
+<li>
+	<span>tsuuuuu_san's entry: </span>
+	<a href="https://qiita.com/tsuuuuu_san/items/1bdd6a6b396a1169fc82">Vue.jsってどうやったら綺麗に使えるのよ</a>
+</li>
